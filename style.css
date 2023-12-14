@@ -15,13 +15,13 @@ body {
 }
 
 .gif {
-    height: 50%;
-    width: 50%;
+    height: 60%;
+    width: 60%;
 }
 
 h2 {
     text-align: center;
-    font-size: 1.2em;
+    font-size: 1.3em;
     color: #e94d58;
     margin: 15px 0;
 }
